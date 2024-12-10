@@ -692,9 +692,9 @@ pre code.hljs {
 .welcome-message {
   display: flex;
   align-items: center;
-  margin-left: -200px;
+  margin-left: -250px;
   /* 设置外边距，可以根据需要调整 */
-  margin-right: 0px;
+  margin-right: -100px;
   /* 设置外边距，可以根据需要调整 */
   padding: 0px;
   /* 设置内边距，可以根据需要调整 */ }
